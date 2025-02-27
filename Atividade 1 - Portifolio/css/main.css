@@ -29,6 +29,7 @@ main .main-content .text p {
     width: 75%;
     font-size: 1.2em;
     font-weight: 300;  /*Espessura*/
+    line-height: 1.6; /*Espaçamento entre linhas*/
 }
 
 /*CARDS*/
@@ -43,7 +44,8 @@ main .techs .cards-container .card {
     padding: 10px;
     background-color: #eee;
     border-radius: 8px;
-    margin-right: 1.8em;
+    margin-right: 0.9em;
+    margin-left: 0.9em;
     cursor: pointer;
 
     display: flex;
