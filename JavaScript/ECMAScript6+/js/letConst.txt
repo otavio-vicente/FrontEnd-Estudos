@@ -1,0 +1,4 @@
+Diferença entre let e const
+Os dois declaram variáveis
+let substitui o var por impossibilitar possíveis erros
+const é uma variável que não é possível alterar seu valor após atribuido
